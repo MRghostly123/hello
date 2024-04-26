@@ -14,7 +14,7 @@ function startQuestions() {
   function answerNo() {
     document.getElementById("questions").style.display = "none";
     document.getElementById("que").style.display = "none";
-    document.getElementById("init").innerText = "I'll make you mine👿👿👿 ";
+    document.getElementById("init").innerText = "I'll make you mine muhahhahaha👿👿👿 ";
     document.getElementById("message").style.display = "";
     document.getElementById("messageText").innerText = "";
     showConfetti()
